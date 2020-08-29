@@ -1,3 +1,2 @@
 # Farizi Luzman Portofolio
-
-# https://portofarizi.herokuapp.com/
+https://portofarizi.herokuapp.com/
